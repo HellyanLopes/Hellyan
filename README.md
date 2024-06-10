@@ -59,5 +59,5 @@
 
 ## Onde me encontrar
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/19983268725)](https://wa.me/19983268725)
-[![Linkedin](https://img.shields.io/badge/-HellyanLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellyan-lopes/)](https://www.linkedin.com/in/hellyan-lopes/)
+[![Linkedin](https://img.shields.io/badge/-Hellyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellyan-lopes/)](https://www.linkedin.com/in/hellyan-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-Hellyan.2013@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hellyan.2013@gmail.com)](mailto:Hellyan.2013@gmail.com)
