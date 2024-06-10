@@ -57,15 +57,7 @@
   />
 </p>
 
-
-<p align="left">
-   💻 Me Encontre nos links abaixo: ⤵️
-</p>
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=hellyan.2013@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellyan-lopes/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/19983268725" alt="WhatsApp"/></a>
-</p>
+## Onde me encontrar
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/19983268725)](https://wa.me/19983268725)
+[![Linkedin](https://img.shields.io/badge/-HellyanLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellyan-lopes/)](https://www.linkedin.com/in/hellyan-lopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Hellyan.2013@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hellyan.2013@gmail.com)](mailto:Hellyan.2013@gmail.com)
